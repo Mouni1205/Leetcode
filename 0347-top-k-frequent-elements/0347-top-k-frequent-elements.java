@@ -1,29 +1,31 @@
 class Solution {
     public int[] topKFrequent(int[] nums, int k) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int x:nums)
-            map.put(x,map.getOrDefault(x,0)+1);
-        List<Integer>[] bucket = new List[nums.length+1]; // Array of list basically 
-        //for each value we are accessing the bucket at the index which is equal to value and 
-        //the add the keys which have the same value.
-        for(int x:map.keySet()){
-            int freq = map.get(x);
-            if(bucket[freq]==null)
-                bucket[freq] = new ArrayList<>();
-            bucket[freq].add(x);
+        // Step 1: Frequency Map
+        Map<Integer, Integer> freqMap = new HashMap<>();
+        for (int num : nums)
+            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
+
+        // Step 2: Bucket - index = frequency, value = list of numbers
+        List<List<Integer>> buckets = new ArrayList<>();
+        for (int i = 0; i <= nums.length; i++)
+            buckets.add(new ArrayList<>());  // initialize empty lists
+
+        for (int num : freqMap.keySet()) {
+            int freq = freqMap.get(num);
+            buckets.get(freq).add(num);
         }
-        int result[] = new int[k];
-        int counter=0;
-        //since we want the top k frequent elements we are iterating from last in bucket array 
-        //at which ever index the value is not null we are iterating the arraylist at that index and 
-        //adding to the list.
-        for(int i = bucket.length-1;i>=0 && counter <k;i--){
-            if(bucket[i]!=null){
-                for(Integer num:bucket[i]) {
-                    result[counter++]=num;
-                }
+
+        // Step 3: Collect top k frequent elements from end of buckets
+        List<Integer> result = new ArrayList<>();
+        for (int i = buckets.size() - 1; i >= 0 && result.size() < k; i--) {
+            if (!buckets.get(i).isEmpty()) {
+                result.addAll(buckets.get(i));
             }
         }
-        return result;
+
+        // Convert to array
+        int[] res = new int[k];
+        for (int i = 0; i < k; i++) res[i] = result.get(i);
+        return res;
     }
 }
