@@ -1,30 +1,26 @@
 class Solution {
-    public boolean bfs(Queue<Integer> queue,int graph[][],int adjColor[]){
+    public boolean bfs(int m,int graph[][],int clr[],int n){
+        clr[m] = 0;
+        Queue<Integer> queue = new LinkedList<>();
+        queue.offer(m);
         while(!queue.isEmpty()){
             int crnt = queue.poll();
-            //traverse over its neigh and paint it in different color meaning 
-            for(int neigh:graph[crnt]){
-                if(adjColor[neigh]==-1){
-                    //not just one while processing the first parent we are coloring its neigh as 1
-                    //but these nodes can also be a parent so their children needs to have 0 color.
-                    adjColor[neigh]= 1-adjColor[crnt];
-                    queue.offer(neigh);
-                }else if(adjColor[neigh]==adjColor[crnt]) return false;
+            for(int i:graph[crnt]){
+                if(clr[i]==-1){
+                    queue.offer(i);
+                    clr[i]=1-clr[crnt];//clr it with the opposite color
+                }else if(clr[i]==clr[crnt]) return false;
             }
         }
         return true;
     }
     public boolean isBipartite(int[][] graph) {
-        int adjColor[] = new int[graph.length];
-        Arrays.fill(adjColor,-1);
-        Queue<Integer> queue = new LinkedList<>();
-        for(int i=0;i<graph.length;i++){
-            //start with a new node which is not yet colored "-1"
-            if(adjColor[i]==-1){
-                    //when you first visit a node and its not colored meaning it is a parent color it as 0 and push it into the queue
-                    adjColor[i]=0;
-                    queue.offer(i);
-                    if(!bfs(queue,graph,adjColor)) return false;
+        int n = graph.length;
+        int clr[] = new int[n];
+        Arrays.fill(clr,-1);
+        for(int i=0;i<n;i++){
+            if(clr[i]==-1){
+                if(!bfs(i,graph,clr,n)) return false;
             }
         }
         return true;
