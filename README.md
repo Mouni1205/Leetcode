@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mouni1205/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mouni1205/Leetcode/tree/master/0049-group-anagrams) |
 | [0572-subtree-of-another-tree](https://github.com/Mouni1205/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mouni1205/Leetcode/tree/master/0020-valid-parentheses) |
 | [0739-daily-temperatures](https://github.com/Mouni1205/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
