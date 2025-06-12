@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mouni1205/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mouni1205/Leetcode/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mouni1205/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
