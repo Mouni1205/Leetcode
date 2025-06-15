@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mouni1205/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Randomized
 |  |
 | ------- |
@@ -263,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mouni1205/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mouni1205/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
