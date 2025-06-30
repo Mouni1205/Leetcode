@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Mouni1205/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Mouni1205/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mouni1205/Leetcode/tree/master/0739-daily-temperatures) |
+| [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mouni1205/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mouni1205/Leetcode/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Mouni1205/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mouni1205/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -271,9 +273,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mouni1205/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |
 | ------- |
+| [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mouni1205/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 <!---LeetCode Topics End-->
