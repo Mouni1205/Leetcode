@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mouni1205/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Mouni1205/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Mouni1205/Leetcode/tree/master/0079-word-search) |
+| [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
 | [0572-subtree-of-another-tree](https://github.com/Mouni1205/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mouni1205/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/Mouni1205/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mouni1205/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Mouni1205/Leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/Mouni1205/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mouni1205/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
