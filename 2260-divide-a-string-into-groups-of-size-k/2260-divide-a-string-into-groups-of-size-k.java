@@ -1,11 +1,13 @@
 class Solution {
     public String[] divideString(String s, int k, char fill) {
-        ArrayList<String> result = new ArrayList<>();
+       
         int start = 0;
         int end = k;
         int n = s.length();
+         String result[]=new String[(n+k-1)/k];
+         int ind = 0;
         while(end<n){
-            result.add(s.substring(start,end));
+            result[ind++]=s.substring(start,end);
             start = end;
             end = end+k;
         }
@@ -16,7 +18,7 @@ class Solution {
                 last[j++]= s.charAt(i);
             else last[j++] = fill;
         }
-        result.add(String.valueOf(last));
-        return result.toArray(new String[0]);
+        result[ind]=String.valueOf(last);
+        return result;
     }
 }
