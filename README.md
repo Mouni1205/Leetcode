@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Mouni1205/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mouni1205/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mouni1205/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mouni1205/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mouni1205/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mouni1205/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mouni1205/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Mouni1205/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mouni1205/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Mouni1205/Leetcode/tree/master/0733-flood-fill) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mouni1205/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
 |  |
 | ------- |
