@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mouni1205/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0682-baseball-game](https://github.com/Mouni1205/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Mouni1205/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mouni1205/Leetcode/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Mouni1205/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Mouni1205/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/Mouni1205/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Mouni1205/Leetcode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Mouni1205/Leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/Mouni1205/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mouni1205/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mouni1205/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
