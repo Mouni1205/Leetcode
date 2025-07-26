@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mouni1205/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Mouni1205/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mouni1205/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mouni1205/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mouni1205/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Mouni1205/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Mouni1205/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mouni1205/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mouni1205/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mouni1205/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
