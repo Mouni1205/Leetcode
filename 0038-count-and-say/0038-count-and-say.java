@@ -1,11 +1,3 @@
-/*class Pair{
-    int num;
-    int freq;
-    Pair(int num,int freq){
-        this.num = num;
-        this.freq = freq;
-    }
-}*/
 class Solution {
     public String getString(String str){
         int count = 1;
@@ -22,19 +14,9 @@ class Solution {
         }
         return result.toString();
     }
-    /*public String getString(ArrayList<Pair> list){
-        StringBuilder str = new StringBuilder();
-        for(Pair freq:list){
-            str.append(freq.freq);
-            str.append(freq.num);
-        }
-        return str.toString();
-    }*/
     public String getElement(int n,String result){
         if(n==1) return result;
-        //ArrayList<Pair> list = getFreqPair(result);
-        String str = getString(result);
-        return getElement(n-1,str);
+        return getElement(n-1,getString(result));
     }
     public String countAndSay(int n) {
         return getElement(n,"1");
