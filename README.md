@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mouni1205/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
+| [1020-longest-turbulent-subarray](https://github.com/Mouni1205/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mouni1205/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1020-longest-turbulent-subarray](https://github.com/Mouni1205/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Mouni1205/Leetcode/tree/master/0322-coin-change) |
 | [0583-delete-operation-for-two-strings](https://github.com/Mouni1205/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mouni1205/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1020-longest-turbulent-subarray](https://github.com/Mouni1205/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Mouni1205/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mouni1205/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mouni1205/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
