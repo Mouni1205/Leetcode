@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mouni1205/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Mouni1205/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mouni1205/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1304-longest-happy-string](https://github.com/Mouni1205/Leetcode/tree/master/1304-longest-happy-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mouni1205/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mouni1205/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1250-longest-common-subsequence](https://github.com/Mouni1205/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1304-longest-happy-string](https://github.com/Mouni1205/Leetcode/tree/master/1304-longest-happy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mouni1205/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Mouni1205/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mouni1205/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Mouni1205/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Mouni1205/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
+| [1304-longest-happy-string](https://github.com/Mouni1205/Leetcode/tree/master/1304-longest-happy-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mouni1205/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Bit Manipulation
 |  |
