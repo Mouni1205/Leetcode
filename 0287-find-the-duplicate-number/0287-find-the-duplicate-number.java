@@ -17,6 +17,8 @@ class Solution {
         }
 
         //step 2 - find the ans: p=x 
+        //idea here is if they for the first time that means there is a cycle
+        //and the next time they meet is the start of the cycle
         slow = 0;
         while(slow!=fast){
             slow = nums[slow];
