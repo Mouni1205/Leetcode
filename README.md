@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Mouni1205/Leetcode/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/Mouni1205/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Mouni1205/Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Mouni1205/Leetcode/tree/master/0389-find-the-difference) |
+| [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mouni1205/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Mouni1205/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mouni1205/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 ## Doubly-Linked List
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Mouni1205/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0649-dota2-senate](https://github.com/Mouni1205/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Mouni1205/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mouni1205/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1250-longest-common-subsequence](https://github.com/Mouni1205/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1304-longest-happy-string](https://github.com/Mouni1205/Leetcode/tree/master/1304-longest-happy-string) |
@@ -398,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Mouni1205/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mouni1205/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/Mouni1205/Leetcode/tree/master/0649-dota2-senate) |
+## Trie
+|  |
+| ------- |
+| [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 <!---LeetCode Topics End-->
