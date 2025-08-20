@@ -13,6 +13,8 @@ class WordFilter {
             String word = words[i];
             int n = word.length();
             //for app - we will insert app#app, pp#app, p#app, #app
+            //inserting it this way we dont have to worry about prefix because inserting 
+            //t{bat} is sufficient for getting t{b} t{ba} t{bat}
             for(int j=0;j<=n;j++){
                 String newWord = word.substring(j)+"#"+word;
                 insert(newWord,i);
