@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/Mouni1205/Leetcode/tree/master/0389-find-the-difference) |
+| [0460-lfu-cache](https://github.com/Mouni1205/Leetcode/tree/master/0460-lfu-cache) |
 | [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 | [0931-maximum-frequency-stack](https://github.com/Mouni1205/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Mouni1205/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Mouni1205/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Mouni1205/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Mouni1205/Leetcode/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mouni1205/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Mouni1205/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mouni1205/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/Mouni1205/Leetcode/tree/master/0460-lfu-cache) |
 | [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 | [0931-maximum-frequency-stack](https://github.com/Mouni1205/Leetcode/tree/master/0931-maximum-frequency-stack) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Mouni1205/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Mouni1205/Leetcode/tree/master/0460-lfu-cache) |
 ## Graph
 |  |
 | ------- |
