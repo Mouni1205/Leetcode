@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mouni1205/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/Mouni1205/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/Mouni1205/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2058-concatenation-of-array](https://github.com/Mouni1205/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mouni1205/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Mouni1205/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mouni1205/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1304-longest-happy-string](https://github.com/Mouni1205/Leetcode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/Mouni1205/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1962-single-threaded-cpu](https://github.com/Mouni1205/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Shortest Path
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mouni1205/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1304-longest-happy-string](https://github.com/Mouni1205/Leetcode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/Mouni1205/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mouni1205/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Bit Manipulation
 |  |
