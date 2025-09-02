@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mouni1205/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
+| [0860-design-circular-queue](https://github.com/Mouni1205/Leetcode/tree/master/0860-design-circular-queue) |
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mouni1205/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Mouni1205/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Mouni1205/Leetcode/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
+| [0860-design-circular-queue](https://github.com/Mouni1205/Leetcode/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mouni1205/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Mouni1205/Leetcode/tree/master/0460-lfu-cache) |
 | [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
+| [0860-design-circular-queue](https://github.com/Mouni1205/Leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/Mouni1205/Leetcode/tree/master/0931-maximum-frequency-stack) |
 ## Doubly-Linked List
 |  |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Mouni1205/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mouni1205/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/Mouni1205/Leetcode/tree/master/0649-dota2-senate) |
+| [0860-design-circular-queue](https://github.com/Mouni1205/Leetcode/tree/master/0860-design-circular-queue) |
 ## Trie
 |  |
 | ------- |
