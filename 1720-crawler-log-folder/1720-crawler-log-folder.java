@@ -1,14 +1,14 @@
 class Solution {
     public int minOperations(String[] logs) {
-        Stack<String> stack = new Stack<>();
-        for(String str:logs){
-            if(str.equals("../")){
-                if(!stack.empty()) stack.pop();
-                continue;
-            } 
-            else if(str.equals("./")) continue;
-            else stack.push(str);
+        int result = 0;
+        for (int i = 0; i < logs.length; i++) {
+            if (logs[i].equals("../")) {
+                result--;
+                if (result < 0) result = 0;
+            } else if (Character.isLetterOrDigit(logs[i].charAt(0))) {
+                result++;
+            }  
         }
-        return stack.size();
+        return result;   
     }
 }
