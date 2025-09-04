@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Mouni1205/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Mouni1205/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Mouni1205/Leetcode/tree/master/0079-word-search) |
+| [0227-basic-calculator-ii](https://github.com/Mouni1205/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0389-find-the-difference](https://github.com/Mouni1205/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
 | [0572-subtree-of-another-tree](https://github.com/Mouni1205/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Mouni1205/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Mouni1205/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mouni1205/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Mouni1205/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Mouni1205/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Mouni1205/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mouni1205/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Mouni1205/Leetcode/tree/master/0066-plus-one) |
+| [0227-basic-calculator-ii](https://github.com/Mouni1205/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/Mouni1205/Leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mouni1205/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
