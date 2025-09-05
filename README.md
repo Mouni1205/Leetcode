@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-longest-turbulent-subarray](https://github.com/Mouni1205/Leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mouni1205/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mouni1205/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/Mouni1205/Leetcode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Mouni1205/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/Mouni1205/Leetcode/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/Mouni1205/Leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/Mouni1205/Leetcode/tree/master/0931-maximum-frequency-stack) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mouni1205/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Mouni1205/Leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Mouni1205/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0931-maximum-frequency-stack](https://github.com/Mouni1205/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mouni1205/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Mouni1205/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/Mouni1205/Leetcode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Mouni1205/Leetcode/tree/master/1720-crawler-log-folder) |
 ## Monotonic Stack
