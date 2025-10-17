@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mouni1205/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1020-longest-turbulent-subarray](https://github.com/Mouni1205/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1036-rotting-oranges](https://github.com/Mouni1205/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mouni1205/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mouni1205/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Mouni1205/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Mouni1205/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mouni1205/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Mouni1205/Leetcode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Mouni1205/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Mouni1205/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Matrix
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Mouni1205/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Mouni1205/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Mouni1205/Leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Mouni1205/Leetcode/tree/master/1036-rotting-oranges) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mouni1205/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Linked List
 |  |
