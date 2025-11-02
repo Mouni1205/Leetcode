@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mouni1205/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mouni1205/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mouni1205/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Mouni1205/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mouni1205/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mouni1205/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Union Find
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/Mouni1205/Leetcode/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mouni1205/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/Mouni1205/Leetcode/tree/master/1582-design-browser-history) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Mouni1205/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
