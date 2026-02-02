@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mouni1205/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/Mouni1205/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Mouni1205/Leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Mouni1205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mouni1205/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mouni1205/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Mouni1205/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Mouni1205/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Mouni1205/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Mouni1205/Leetcode/tree/master/0146-lru-cache) |
+| [0217-contains-duplicate](https://github.com/Mouni1205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mouni1205/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mouni1205/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mouni1205/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mouni1205/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Mouni1205/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Mouni1205/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Mouni1205/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mouni1205/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
