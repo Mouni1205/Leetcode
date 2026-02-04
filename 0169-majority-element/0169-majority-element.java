@@ -11,11 +11,6 @@ class Solution {
             }
             }
         }
-        freq=0;
-        for(int num:nums){
-            if(num==candidate) freq++;
-        }
-        if(freq>nums.length/2) return candidate;
-        return -1;
+         return candidate;
     }
 }
