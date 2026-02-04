@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mouni1205/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/Mouni1205/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Mouni1205/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Mouni1205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Mouni1205/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mouni1205/Leetcode/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Mouni1205/Leetcode/tree/master/0079-word-search) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mouni1205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/Mouni1205/Leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mouni1205/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Mouni1205/Leetcode/tree/master/0198-house-robber) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mouni1205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mouni1205/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Mouni1205/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Mouni1205/Leetcode/tree/master/0347-top-k-frequent-elements) |
