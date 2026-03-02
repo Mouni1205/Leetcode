@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mouni1205/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Mouni1205/Leetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Mouni1205/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Mouni1205/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Mouni1205/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Mouni1205/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mouni1205/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mouni1205/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Mouni1205/Leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Mouni1205/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mouni1205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Mouni1205/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Mouni1205/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mouni1205/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Mouni1205/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Mouni1205/Leetcode/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mouni1205/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
