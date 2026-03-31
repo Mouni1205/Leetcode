@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Mouni1205/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/Mouni1205/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Mouni1205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Mouni1205/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Mouni1205/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Mouni1205/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Mouni1205/Leetcode/tree/master/0724-find-pivot-index) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Mouni1205/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Mouni1205/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/Mouni1205/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mouni1205/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mouni1205/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Mouni1205/Leetcode/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/Mouni1205/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Mouni1205/Leetcode/tree/master/0645-set-mismatch) |
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Mouni1205/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mouni1205/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Mouni1205/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Mouni1205/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Mouni1205/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0874-backspace-string-compare](https://github.com/Mouni1205/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Mouni1205/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Mouni1205/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/Mouni1205/Leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Mouni1205/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0917-boats-to-save-people](https://github.com/Mouni1205/Leetcode/tree/master/0917-boats-to-save-people) |
