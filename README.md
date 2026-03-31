@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Mouni1205/Leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Mouni1205/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mouni1205/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mouni1205/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Mouni1205/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mouni1205/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1582-design-browser-history](https://github.com/Mouni1205/Leetcode/tree/master/1582-design-browser-history) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Mouni1205/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/Mouni1205/Leetcode/tree/master/1020-longest-turbulent-subarray) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mouni1205/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Mouni1205/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Mouni1205/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Depth-First Search
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Mouni1205/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Mouni1205/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mouni1205/Leetcode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mouni1205/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Stack
 |  |
 | ------- |
