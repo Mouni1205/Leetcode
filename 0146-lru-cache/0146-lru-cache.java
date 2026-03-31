@@ -1,65 +1,67 @@
-class Node{
-    int key,value;
-    Node prev,next;
-    Node(int key,int value){
+class ListNode{
+    int key;
+    int value;
+    ListNode prev=null;
+    ListNode next=null;
+    ListNode(int key,int value){
         this.key = key;
         this.value = value;
     }
 }
 class LRUCache {
-    HashMap<Integer,Node> map;
-    int capacity = 0;
-    Node dummyHead,dummyTail;
+    HashMap<Integer,ListNode> map;
+    int capacity;
+    ListNode dummyHead;
+    ListNode dummyTail;
+
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        map = new HashMap<>();
-        dummyHead = new Node(-1,-1);
-        dummyTail = new Node(-1,-1);
-        dummyHead.next = dummyTail;
-        dummyTail.prev = dummyHead;
+        map=new HashMap<>();
+        dummyHead = new ListNode(-1,-1);
+        dummyTail = new ListNode(-1,-1);
+        dummyHead.next=dummyTail;
+        dummyTail.prev=dummyHead;
     }
     
     public int get(int key) {
-        //we have to do two things return value from map and then if the key exists we want to remove the node and then add it to the front
-        if(map.containsKey(key)){
-            Node crnt = map.get(key);
-            remove(crnt);
-            addFirst(crnt);
-            return crnt.value;
-        }
-        return -1;
+        if(!map.containsKey(key)) return -1;
+        ListNode crnt = map.get(key);
+        remove(crnt);
+        add(crnt);
+        return crnt.value;
     }
     
     public void put(int key, int value) {
         if(map.containsKey(key)){
-            Node crnt = map.get(key);
+            ListNode crnt = map.get(key);
             crnt.value = value;
-            map.put(key,crnt);
             remove(crnt);
-            addFirst(crnt);
+            add(crnt);
         }else{
-            Node crnt = new Node(key,value);
+        if(map.size()==capacity){
+            ListNode lru = dummyTail.prev;
+            map.remove(lru.key);
+            lru.prev.next=dummyTail;
+            dummyTail.prev = lru.prev;
+            lru.next = null;
+            lru.prev = null;
+        }
+            ListNode crnt = new ListNode(key,value);
             map.put(key,crnt);
-            if(map.size()>capacity){
-                map.remove(dummyTail.prev.key);
-                remove(dummyTail.prev);
-            }
-            addFirst(crnt);
+            add(crnt);
         }
     }
-
-    public void remove(Node node){
+    public void add(ListNode node){
+        dummyHead.next.prev = node;
+        node.next = dummyHead.next;
+        dummyHead.next = node;
+        node.prev = dummyHead;
+    }
+    public void remove(ListNode node){
         node.prev.next = node.next;
-        node.next.prev = node.prev;
+        node.next.prev=node.prev;
         node.prev = null;
         node.next = null;
-    }
-
-    public void addFirst(Node node){
-        node.next = dummyHead.next;
-        node.prev = dummyHead;
-        dummyHead.next = node;
-        node.next.prev = node;
     }
 }
 
