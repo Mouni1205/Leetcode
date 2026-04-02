@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Mouni1205/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Mouni1205/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mouni1205/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Mouni1205/Leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mouni1205/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mouni1205/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Heap (Priority Queue)
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mouni1205/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1720-crawler-log-folder](https://github.com/Mouni1205/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/Mouni1205/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Mouni1205/Leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Mouni1205/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/Mouni1205/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Mouni1205/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/Mouni1205/Leetcode/tree/master/1304-longest-happy-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Mouni1205/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mouni1205/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Mouni1205/Leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mouni1205/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Bit Manipulation
 |  |
