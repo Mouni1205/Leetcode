@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mouni1205/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Mouni1205/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Mouni1205/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Mouni1205/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mouni1205/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Mouni1205/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Mouni1205/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mouni1205/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Mouni1205/Leetcode/tree/master/0038-count-and-say) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Mouni1205/Leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/Mouni1205/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Mouni1205/Leetcode/tree/master/0066-plus-one) |
 | [0227-basic-calculator-ii](https://github.com/Mouni1205/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/Mouni1205/Leetcode/tree/master/0279-perfect-squares) |
