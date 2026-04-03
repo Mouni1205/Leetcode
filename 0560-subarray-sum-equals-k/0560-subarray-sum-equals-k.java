@@ -1,4 +1,10 @@
-
+/*
+Distance traveled = prefixSum
+Target distance = k
+If  b−k (current total distance minus target) matches a previous distance, it means we’ve found our starting point for traveling exactly 
+k
+k.
+*/
 class Solution {
     public int subarraySum(int[] nums, int k) {
         HashMap<Integer,Integer> map = new HashMap<>();
