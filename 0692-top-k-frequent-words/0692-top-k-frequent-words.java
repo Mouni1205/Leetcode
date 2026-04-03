@@ -1,5 +1,7 @@
 import java.util.*;
 
+import java.util.*;
+
 class Solution {
     public List<String> topKFrequent(String[] words, int k) {
         // Count frequencies
@@ -8,22 +10,23 @@ class Solution {
             freqMap.put(word, freqMap.getOrDefault(word, 0) + 1);
         }
 
-        // Create a priority queue
-        PriorityQueue<String> pq = new PriorityQueue<>(
-            (w1, w2) -> freqMap.get(w1).equals(freqMap.get(w2)) 
-                        ? w1.compareTo(w2) 
-                        : freqMap.get(w2) - freqMap.get(w1)
-        );
-
-        // Add words to the priority queue
-        pq.addAll(freqMap.keySet());
-
-        // Extract top K words
-        List<String> result = new ArrayList<>();
-        for (int i = 0; i < k; i++) {
-            result.add(pq.poll());
+        // Create buckets based on frequency
+        List<String>[] buckets = new List[words.length + 1];
+        for (String word : freqMap.keySet()) {
+            int freq = freqMap.get(word);
+            if (buckets[freq] == null) buckets[freq] = new ArrayList<>();
+            buckets[freq].add(word);
         }
 
-        return result;
+        // Result list
+        List<String> result = new ArrayList<>();
+        for (int i = buckets.length - 1; i >= 0 && result.size() < k; i--) {
+            if (buckets[i] != null) {
+                Collections.sort(buckets[i]); // Sort lexicographically
+                result.addAll(buckets[i]);
+            }
+        }
+
+        return result.subList(0, k); // Return top K
     }
 }
