@@ -31,7 +31,6 @@ class Solution {
                 result += stack.pop();
             }
         }
-        if(curr != 0) result += sign * curr;
-    return result;
+       return result += sign * curr;
     }
 }
