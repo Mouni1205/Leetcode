@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Mouni1205/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Mouni1205/Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Mouni1205/Leetcode/tree/master/0093-restore-ip-addresses) |
+| [0224-basic-calculator](https://github.com/Mouni1205/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Mouni1205/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0389-find-the-difference](https://github.com/Mouni1205/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Mouni1205/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mouni1205/Leetcode/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Mouni1205/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Mouni1205/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Mouni1205/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/Mouni1205/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Mouni1205/Leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mouni1205/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Mouni1205/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Mouni1205/Leetcode/tree/master/0066-plus-one) |
+| [0224-basic-calculator](https://github.com/Mouni1205/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Mouni1205/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0279-perfect-squares](https://github.com/Mouni1205/Leetcode/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Mouni1205/Leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mouni1205/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
