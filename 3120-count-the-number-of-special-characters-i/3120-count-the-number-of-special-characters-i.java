@@ -5,6 +5,7 @@ class Solution {
         for(char ch:word.toCharArray()){
             if(!set.contains(ch)){
             if(ch>='a'&&ch<='z'){
+                //you can also do ch-'a'+'A' to convert
                 if(set.contains(Character.toUpperCase(ch))) result++;
             }
             else if(ch>='A'&&ch<='Z'){
