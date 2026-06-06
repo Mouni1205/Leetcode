@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Mouni1205/Leetcode/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mouni1205/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Mouni1205/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mouni1205/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mouni1205/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mouni1205/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mouni1205/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mouni1205/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Randomized
 |  |
 | ------- |
@@ -583,4 +585,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Mouni1205/Leetcode/tree/master/0399-evaluate-division) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Mouni1205/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
