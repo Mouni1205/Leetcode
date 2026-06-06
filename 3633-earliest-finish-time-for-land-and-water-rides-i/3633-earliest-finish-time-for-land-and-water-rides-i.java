@@ -1,20 +1,38 @@
 class Solution {
-
-    public int earliestFinishTime(int[] landStartTime, int[] landDuration, int[] waterStartTime, int[] waterDuration) {
-    int n = landStartTime.length;
-    int m = waterStartTime.length;
-    int min = Integer.MAX_VALUE;
-    for(int i=0;i<n;i++){
-        int landFinish = landStartTime[i]+landDuration[i];
-        for(int j=0;j<m;j++){
-            int waterFinish = waterStartTime[j]+waterDuration[j];
-            //land first
-            int landFirst = Math.max(landFinish, waterStartTime[j]) + waterDuration[j];
-            //water first
-            int waterFirst = Math.max(waterFinish, landStartTime[i]) + landDuration[i];
-            min = Math.min(min, Math.min(landFirst, waterFirst));
+public int getFinishTime(int[] start1,
+        int[] duration1,
+        int[] start2,
+        int[] duration2
+    ) {
+        int finish1 = Integer.MAX_VALUE;
+        for (int i = 0; i < start1.length; i++) {
+            finish1 = Math.min(finish1, start1[i] + duration1[i]);
         }
+        int finish2 = Integer.MAX_VALUE;
+        for (int i = 0; i < start2.length; i++) {
+            finish2 = Math.min(
+                finish2,
+                Math.max(start2[i], finish1) + duration2[i]
+            );
+        }
+        return finish2;
     }
-    return min;
+    public int earliestFinishTime(int[] landStartTime, int[] landDuration, int[] waterStartTime, int[] waterDuration) {
+    
+    //According to the qstn we can either do land+water or water land
+    //so we need min(land+water, water+land)
+    //for these two activities we need to find the min land activity first and then 
+    //min of landactivity+wateractivity 
+
+    int landWater = getFinishTime(landStartTime,
+            landDuration,
+            waterStartTime,
+            waterDuration);
+    int waterLand = getFinishTime(waterStartTime,
+            waterDuration,
+            landStartTime,
+            landDuration);
+            return Math.min(landWater,waterLand);
+
 }
 }
