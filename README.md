@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mouni1205/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Mouni1205/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0746-prefix-and-suffix-search](https://github.com/Mouni1205/Leetcode/tree/master/0746-prefix-and-suffix-search) |
+| [0796-rotate-string](https://github.com/Mouni1205/Leetcode/tree/master/0796-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Mouni1205/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Mouni1205/Leetcode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Mouni1205/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
