@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Mouni1205/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Mouni1205/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Mouni1205/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0271-encode-and-decode-strings](https://github.com/Mouni1205/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0287-find-the-duplicate-number](https://github.com/Mouni1205/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Mouni1205/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mouni1205/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Mouni1205/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Mouni1205/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Mouni1205/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0271-encode-and-decode-strings](https://github.com/Mouni1205/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/Mouni1205/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Mouni1205/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Mouni1205/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Mouni1205/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0224-basic-calculator](https://github.com/Mouni1205/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Mouni1205/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0271-encode-and-decode-strings](https://github.com/Mouni1205/Leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0389-find-the-difference](https://github.com/Mouni1205/Leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Mouni1205/Leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Mouni1205/Leetcode/tree/master/0399-evaluate-division) |
